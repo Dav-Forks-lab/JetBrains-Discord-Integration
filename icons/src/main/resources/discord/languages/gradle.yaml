@@ -1,9 +1,6 @@
 name: Gradle
 parent: text
 asset: gradle
-match:
-  path:
-    contains: .gradle/
 flavors:
   - name: Gradle Groovy
     parent: groovy
